@@ -26,7 +26,8 @@ The report contains **4 pages: Home, Overview, Artists, and Songs**.
 - Overview of all dashboard sections  
 
 📸 *Screenshot:*  
-`![Home](Home.png)`
+`![Home]`
+(Home.png)
 
 ---
 
