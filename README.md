@@ -26,8 +26,8 @@ The report contains **4 pages: Home, Overview, Artists, and Songs**.
 - Overview of all dashboard sections  
 
 📸 *Screenshot:*  
-`![Home]`
-(Home.png)
+![Home](Home.png)
+
 
 ---
 
@@ -40,7 +40,7 @@ Includes:
 - Song Release Distribution  
 
 📸 *Screenshot:*  
-`![Overview](Overview.png)`
+![Overview](Overview.png)
 
 ---
 
@@ -52,7 +52,7 @@ Displays:
 - Duration Analysis by Artist  
 
 📸 *Screenshot:*  
-`![Artists](Artists.png)`
+![Artists](Artists.png)
 
 ---
 
@@ -64,7 +64,7 @@ Contains:
 - Popularity Trend Line Chart  
 
 📸 *Screenshot:*  
-`![Songs](Songs.png)`
+![Songs](Songs.png)
 
 ---
 
